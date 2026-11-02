@@ -1,4 +1,4 @@
-Hi, I’m Khimnaria (Autumn) 👋
+# Hi, I’m Khimnaria (Autumn) 👋
 
 ### MSci Computer Science Student at King’s College London
 
@@ -12,7 +12,7 @@ I enjoy exploring how mathematical concepts and computational methods can be app
 
 I am keen to develop my programming skills, work on practical projects and learn through collaboration and hands-on experience.
 
-##Education
+## Education
 
 **King’s College London**
 
