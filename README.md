@@ -30,7 +30,13 @@ I am keen to develop my programming skills, work on practical projects and learn
 - British Physics Olympiad (BPhO) – Commendation
 - UKMT Mathematics Challenges – Gold and Bronze Awards
 
-### 📜 Courses & Certifications
+## Achievement & Awards 
+
+- Winner of Both Challenges – KCL Future Skills Hackathon (November 2026)
+  - Part of a seven-member team that won both challenges, receiving £200 in total team prize money.
+  - Contributed to an AI-related game concept through game design, logo creation and presentation development.
+    
+###  Courses & Certifications
 - CS50x: Introduction to Computer Science - Harvard University (2025)
   - Completed 10 problem sets and a final project.
   - [View Certificate](https://cs50.harvard.edu/certificates/0b574b4e-81dd-4000-84cf-2867b831a14d)
