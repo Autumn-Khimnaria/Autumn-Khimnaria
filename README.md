@@ -32,8 +32,9 @@ I am keen to develop my programming skills, work on practical projects and learn
 
 ## Achievement & Awards 
 
-- Winner of Both Challenges – KCL Future Skills Hackathon (November 2026)
+- Winner of Both Challenges & Best Sketch – KCL Future Skills Hackathon (November 2026)
   - Part of a seven-member team that won both challenges, receiving £200 in total team prize money.
+  - Personally awarded Best Sketch Winner.
   - Contributed to an AI-related game concept through game design, logo creation and presentation development.
     
 ###  Courses & Certifications
